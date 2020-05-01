@@ -1,0 +1,10 @@
+
+big 	https://www.icpsr.umich.edu/icpsrweb/DSDR/studies/21600
+
+org	http://www.sociopatterns.org/datasets/
+
+ok	http://www.sociopatterns.org/datasets/kenyan-households-contact-network/ 
+
+	http://www.sociopatterns.org/datasets/hospital-ward-dynamic-contact-network/ 
+
+	http://www.sociopatterns.org/datasets/high-school-contact-and-friendship-networks/
